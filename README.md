@@ -4,5 +4,5 @@ This program was a commission work designed to use OpenCV on a Raspberry Pi to b
 
 ![Gray Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/Gray%231.png) "Gray Steering Wheel")
 ![Green Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/Green%231.png) "Green Steering Wheel")
-![Half-Covered Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/Half-Covered%231.png) "Half-Covered Steering Wheel")
-![Speedlimit](https://github.com/Odonn159/VisionDetectCar/blob/main/Green%231.png) "Speedlimit")
+![Half-Covered Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/HalfCovered%231.png) "Half-Covered Steering Wheel")
+![Speedlimit](https://github.com/Odonn159/VisionDetectCar/blob/main/Speedlimit.png) "Speedlimit")
