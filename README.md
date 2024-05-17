@@ -5,7 +5,7 @@ This program was a commission work designed to use OpenCV on a Raspberry Pi to b
 "Gray Steering Wheel"
 
 
-![Gray Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/Gray%231.png) "Gray Steering Wheel"
+![Gray Steering Wheel](https://github.com/Odonn159/VisionDetectCar/blob/main/Gray%231.png)
 
 
 "Green Steering Wheel"
